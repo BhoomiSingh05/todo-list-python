@@ -108,12 +108,6 @@ pip install flask
 python app.py
 ```
 
-### Open Browser
-
-```text
-```
-
----
 
 ## Future Improvements
 
