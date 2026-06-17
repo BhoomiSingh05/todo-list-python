@@ -111,7 +111,6 @@ python app.py
 ### Open Browser
 
 ```text
-http://127.0.0.1:5000
 ```
 
 ---
