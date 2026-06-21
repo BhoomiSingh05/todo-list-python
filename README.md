@@ -2,21 +2,15 @@
 
 My To-Do List Website is a simple full-stack task management application built using Python Flask, HTML, and CSS. The application allows users to add tasks, delete tasks, and maintain a history log of all actions performed. The project demonstrates frontend-backend integration using Flask routes and dynamic HTML rendering.
 
----
-
 ## Project Objective
 
 The purpose of this project is to develop a simple and user-friendly task management application using Flask. The project demonstrates how a frontend interface can communicate with a Python backend to perform task operations and display dynamic content.
-
----
 
 ## Why This Project Is Important
 
 Task management applications are widely used in personal and professional environments to improve productivity and organization. This project provides a practical example of how web applications handle user input, process data on the server, and display updated information dynamically.
 
 Building this project helped in understanding the complete workflow of a web application, including frontend design, backend processing, data management, and user interaction. It also serves as a foundation for developing larger productivity and management systems.
-
----
 
 ## Core Features Overview
 
@@ -47,8 +41,6 @@ Building this project helped in understanding the complete workflow of a web app
 * Clean task and history sections.
 * Styled buttons and glass-effect input field.
 
----
-
 ## Key Concepts Used
 
 * Flask Routing
@@ -60,8 +52,6 @@ Building this project helped in understanding the complete workflow of a web app
 * CRUD Operations
 * Frontend and Backend Integration
 
----
-
 ## System Architecture
 
 The application follows a simple client-server architecture:
@@ -71,8 +61,6 @@ The application follows a simple client-server architecture:
 3. Flask processes the request and updates the task list.
 4. Updated data is rendered dynamically using Jinja2 templates.
 5. The browser displays the latest task and history information.
-
----
 
 ## Data Management
 
@@ -86,8 +74,6 @@ Stores all active tasks entered by the user.
 
 Stores records of task additions and deletions, allowing users to view past actions performed within the application.
 
----
-
 ## Project Directory Structure
 
 ```text
@@ -100,8 +86,6 @@ todo-list/
 └── README.md              # Project documentation
 ```
 
----
-
 ## Technologies Used
 
 ### Frontend
@@ -113,8 +97,6 @@ todo-list/
 
 * Python
 * Flask
-
----
 
 ## Application Workflow
 
@@ -140,8 +122,6 @@ Update History
 Render Updated Page
 ```
 
----
-
 ## Local Setup Guide
 
 ### Prerequisites
@@ -161,8 +141,6 @@ pip install flask
 python app.py
 ```
 
----
-
 ## Benefits of the Project
 
 * Improves task organization.
@@ -170,8 +148,6 @@ python app.py
 * Provides practical experience with Flask.
 * Introduces dynamic web application development.
 * Serves as a foundation for more advanced productivity applications.
-
----
 
 ## Challenges Addressed
 
@@ -181,13 +157,9 @@ python app.py
 * Maintaining task history records.
 * Creating a responsive and visually appealing interface.
 
----
-
 ## Future Database Integration
 
 Currently, task data is stored temporarily in memory. Future versions can integrate SQLite or other databases to provide permanent storage and improved scalability.
-
----
 
 ## Future Improvements
 
@@ -196,8 +168,6 @@ Currently, task data is stored temporarily in memory. Future versions can integr
 * Add due dates and priorities.
 * User authentication and login.
 * Dark/Light theme switcher.
-
----
 
 ## Learning Outcomes
 
@@ -209,8 +179,6 @@ This project demonstrates:
 * HTML and CSS frontend design
 * CRUD-style task operations
 * Basic full-stack web development concepts
-
----
 
 ## Project Significance
 
