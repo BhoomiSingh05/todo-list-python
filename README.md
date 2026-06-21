@@ -102,14 +102,6 @@ Render Updated Page
 pip install flask
 ```
 
-### Run Application
-
-```bash
-python app.py
-```
-
----
-
 ## View the Project
 
 After running the application, open your web browser and navigate to:
