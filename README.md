@@ -108,6 +108,24 @@ pip install flask
 python app.py
 ```
 
+---
+
+## View the Project
+
+After running the application, open your web browser and navigate to:
+
+```text
+http://127.0.0.1:5000
+```
+
+You will be able to:
+
+* Add new tasks
+* Delete existing tasks
+* View task history
+* Interact with the application through the web interface
+
+---
 
 ## Future Improvements
 
@@ -129,6 +147,3 @@ This project demonstrates:
 * HTML and CSS frontend design
 * CRUD-style task operations
 * Basic full-stack web development concepts
-
-```
-```
