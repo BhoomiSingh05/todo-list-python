@@ -114,9 +114,7 @@ python app.py
 
 After running the application, open your web browser and navigate to:
 
-```text
-http://127.0.0.1:5000
-```
+
 
 You will be able to:
 
